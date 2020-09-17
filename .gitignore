@@ -107,6 +107,7 @@ target/
 *.doc
 data/preprocess.py
 !/data
+/slides
 
 
 # Model File
