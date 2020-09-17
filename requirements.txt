@@ -1,0 +1,11 @@
+torch==1.6.0
+tensorboard==1.15.0
+matplotlib==2.2.3
+gensim==3.5.0
+numpy==1.16.2
+Pillow==5.4.1
+python_gflags==3.1.2
+scikit_learn==0.19.1
+tqdm==4.49.0
+geoopt==0.2.0
+google-compute-engine==2.8.13
